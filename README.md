@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/Tejas-Sharma2627/<OWNER>/<OWNER>/head.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/Tejas-Sharma2627/<OWNER>/<OWNER>/header.gif "Header")](https://some-url.dev/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Tejas Sharma, currently pursuing my Bachelors in Technology in Electrical Engineering from Delhi Technological University.
-I am self taught programmer with proficiency in Java, HTML, CSS, JavaScript, ReactJS and many other libraries.
+I am Tejas Sharma, currently pursuing my Bachelors in Technology in Electrical Engineering from Delhi Technological University.<br>
+I am self taught programmer with proficiency in Java, HTML, CSS, JavaScript, ReactJS and many other libraries.<br>
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

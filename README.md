@@ -12,6 +12,6 @@ I am self taught programmer with proficiency in Java, HTML, CSS, JavaScript, Rea
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+
 
 

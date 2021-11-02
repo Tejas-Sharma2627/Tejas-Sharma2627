@@ -1,4 +1,4 @@
-[![Header](<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/header.gif" width="30px">)](https://some-url.dev/)
+[![Header](<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/header.gif" width="30px">)]
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Tejas Sharma, currently pursuing my Bachelors in Technology in Electrical Engineering from Delhi Technological University.<br>
 I am self taught programmer with proficiency in Java, HTML, CSS, JavaScript, ReactJS and many other libraries.<br>

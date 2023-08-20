@@ -1,37 +1,23 @@
 # Tejas Sharma
 
-Hello, world! 👋 I'm Tejas Sharma, a passionate software developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
+👋 Hello, world! I'm Tejas Sharma, a passionate Software Development Engineer in Test (SDET) and a Code Ninja! Welcome to my GitHub playground where innovation meets coding.
 
 ## About Me
 
-I'm a recent graduate with a Bachelor's degree in Computer Science. My journey in the world of programming started with a simple "Hello, World!" and has led me to explore various technologies and projects.
+🚀 A final year student in Electrical Engineering from Delhi Technological University, I'm all about making technology bug-free and shaping the future through clean code.
 
-- 🌱 I’m currently learning and experimenting with new programming languages and frameworks.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 💬 Feel free to ask me about coding, technology trends, or anything tech-related.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-sharma/)!
+🌐 As an SDET, I blend my programming prowess with semiconductor device physics insights, uncovering bugs and crafting robust solutions.
 
-## My Tech Stack
+## Tech Stack
 
-Here are some of the technologies I've been working with:
+🛠️ From C++ to Python, React to AWS, I wield a diverse arsenal of tech to build, optimize, and innovate. My curiosity drives me to master new tools and languages along the way.
 
-- Programming Languages: Python, Java, JavaScript
-- Web Development: HTML, CSS, React
-- Databases: MySQL, MongoDB
-- Tools: Git, VS Code
+## Projects & Achievements
 
-## Projects
+💡 From **Spelling Bee**, a language-learning app, to **Prompts Manager**, a platform for AI prompts, I've crafted innovative solutions.
 
-Check out some of my projects:
+🏆 I've achieved a Max Rating of 1282 on Codeforces, 1759 on Codechef, and 1662 on Leetcode. I've even qualified for Jumpstart 2022 by Publicis Sapient.
 
-- [Project 1](https://github.com/Tejas-Sharma2627/Project1): Brief description of the project.
-- [Project 2](https://github.com/Tejas-Sharma2627/Project2): Brief description of the project.
+## Connect With Me
 
-## Let's Connect
-
-I'm always excited to connect with fellow developers and tech enthusiasts. Let's learn and grow together!
-
-- [LinkedIn](https://www.linkedin.com/in/tejas-sharma/)
-- [GitHub](https://github.com/Tejas-Sharma2627)
-
-Feel free to explore my repositories, leave a star if you find something interesting, and let's create amazing things together! 🚀
+📫 Let's connect and collaborate! Reach out to me on [LinkedIn](https://www.linkedin.com/in/tejas-sharma-0b2b2419b/) or explore my projects on [GitHub](https://github.com/Tejas-Sharma2627). Together, let's code, conquer, and create wonders! 🚀

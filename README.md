@@ -1,22 +1,37 @@
-![Header](https://c.tenor.com/C22FQku5MPYAAAAM/pacman-eating-dots.gif)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Tejas Sharma, currently pursuing my Bachelors in Technology in Electrical Engineering from Delhi Technological University.<br>
-I am enthusiastic in learning and solving problems based on Data Structures and Algorithms.<br>
-I am also keen in learning web development.<br>
-I am self taught programmer with proficiency in Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS and MongoDB<br>
-I am also developing my full stack project using MERN Stack.<br>
-<br><br>
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Runtime-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-<!-- Actual text -->
+# Tejas Sharma
 
+Hello, world! 👋 I'm Tejas Sharma, a passionate software developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
 
+## About Me
 
+I'm a recent graduate with a Bachelor's degree in Computer Science. My journey in the world of programming started with a simple "Hello, World!" and has led me to explore various technologies and projects.
 
+- 🌱 I’m currently learning and experimenting with new programming languages and frameworks.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💬 Feel free to ask me about coding, technology trends, or anything tech-related.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tejas-sharma/)!
+
+## My Tech Stack
+
+Here are some of the technologies I've been working with:
+
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS, React
+- Databases: MySQL, MongoDB
+- Tools: Git, VS Code
+
+## Projects
+
+Check out some of my projects:
+
+- [Project 1](https://github.com/Tejas-Sharma2627/Project1): Brief description of the project.
+- [Project 2](https://github.com/Tejas-Sharma2627/Project2): Brief description of the project.
+
+## Let's Connect
+
+I'm always excited to connect with fellow developers and tech enthusiasts. Let's learn and grow together!
+
+- [LinkedIn](https://www.linkedin.com/in/tejas-sharma/)
+- [GitHub](https://github.com/Tejas-Sharma2627)
+
+Feel free to explore my repositories, leave a star if you find something interesting, and let's create amazing things together! 🚀
